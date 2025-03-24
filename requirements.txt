@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+tensorflow
+opencv-python
+pillow
+matplotlib
+plotly
+facenet-pytorch
