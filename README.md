@@ -2,6 +2,22 @@
 
 This application uses deep learning models to detect potentially manipulated or "deepfake" images. It provides a user-friendly web interface for image analysis with multiple detection methods.
 
+![df](images/df.jpeg)
+
+![df](images/df1.png)
+
+![df](images/df2.png)
+
+![df](images/df3.png)
+
+![df](images/df4.png)
+
+![df](images/df5.png)
+
+![df](images/df6.png)
+
+
+
 ## Features
 
 - **Multi-model detection**: Uses both PyTorch and TensorFlow models for more reliable results
